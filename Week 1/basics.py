@@ -15,7 +15,6 @@ print("--- Day 4: Functions ---")
 def complete_task(task_name):
     return f"Status: {task_name} Completed!"
 print(complete_task("Day 4 Task") + "\n")
-
 print("--- Day 5: Lists & Tuples ---")
 skills_list = ["Python", "Machine Learning", "Data Science"]
 data_tuple = (100, 200, 300)
